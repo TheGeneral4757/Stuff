@@ -1,0 +1,1 @@
+irm https://raw.githubusercontent.com/TheGeneral4757/Stuff/main/harden-steam-only.ps1 | iex
